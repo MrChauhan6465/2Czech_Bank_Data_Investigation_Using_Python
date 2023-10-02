@@ -1,6 +1,6 @@
-# 2Czech_Bank_Data_Investigation_Using_Python
+# Czech_Bank_Data_Investigation_Using_Python
 
-## 2. Czech Bank Data Investigation 💼
+## Czech Bank Data Investigation 💼
 
 Dataset Description:
 Embark on a financial journey with Czech Bank Data Investigation. This project delves into anonymized bank transactions and account information, uncovering insights that can improve banking services and customer understanding.
